@@ -13,14 +13,14 @@ class Program
         Job job2 = new Job();
         job2._company = "Cash Unide";
         job2._jobTitle = "Cajero";
-        job2._startYear = 2021;
-        job2._endYear = 2023;
+        job2._startYear = 2019;
+        job2._endYear = 2021;
 
         Job job3 = new Job();
         job3._company = "Carrefour";
         job3._jobTitle = "Auxiliar";
-        job3._startYear = 2021;
-        job3._endYear = 2023;
+        job3._startYear = 2015;
+        job3._endYear = 2017;
 
         Resume miResume = new Resume();
         miResume._name = "Samuel Moroni Aguilar Cordova";
